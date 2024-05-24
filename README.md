@@ -1,3 +1,5 @@
+This is a fork of Bayes' Rays for experimenting only.
+
 # Bayes' Rays
 ### [Project Page](https://bayesrays.github.io/) | [Paper](https://arxiv.org/abs/2309.03185)
 <img src="https://github.com/BayesRays/bayesrays.github.io/raw/main/video/demo1.gif" height=400>
